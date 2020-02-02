@@ -5,7 +5,7 @@ Introduction of basic concepts of ADO.NET
 
 
 Following Database tables are used through out the example prokects in Introduction to ADO.NET
-CREATE TABLE [Students] 
+CREATE TABLE [Students] \r\n
 (
 	[Id] INT IDENTITY NOT NULL,
 	[FirstName] NVARCHAR(100) NOT NULL,
