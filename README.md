@@ -4,7 +4,7 @@ Introduction of basic concepts of ADO.NET
 - Additionally for For WebForms, please select the appropriate "WebForm1.aspx.cs" before running the program.
 
 
-Following Database tables are used through out the example prokects in Introduction to ADO.NET
+Following Database tables are used through out the example projects in Introduction to ADO.NET
 
 CREATE TABLE [Students]
 
